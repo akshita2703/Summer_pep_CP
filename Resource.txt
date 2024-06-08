@@ -1,1 +1,4 @@
 Blog on C++ --- https://akcube.github.io/
+
+
+for Reference ---- https://en.cppreference.com/w/
